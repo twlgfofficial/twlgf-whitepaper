@@ -35,3 +35,9 @@ Business ID: 3503908-7
 Address: Monnankatu 21 B 4, 26660 Rauma, Finland  
 Email: [info@twlgf.com](mailto:info@twlgf.com)  
 Website: [https://www.twlgf.com](https://www.twlgf.com)
+
+---
+
+## Proof of Integrity
+**File:** TWLGF_White_Paper_2025_11_02.pdf  
+**SHA256:** 9ca3613dd4ad5c4cb3ef932c603bc08e7e31829de32a23f1407b6377921b662a
